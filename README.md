@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on some Game Jams
 - 📫 Reach me on Instagram https://www.instagram.com/kaladharan_lal/
 
-  Since my childhood, I am fascinated by tech. ⚡️
+  Since my childhood, I have been fascinated by tech. ⚡️
   
-  During Corona Lockdown, I was introduced to programming, and from then it became my only hobby. 👨‍💻<br>
+  During the Corona Lockdown, I was introduced to programming, and from then it became my only hobby. 👨‍💻<br>
   Programming gave me the superpowers to create whatever I could imagine. 💭<br>
   I am always curious about the possibilities, and always ready to try the unimaginable. 🎇<br>
 
