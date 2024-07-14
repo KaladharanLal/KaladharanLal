@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming with Python, javascript/HTML/CSS
 - 🌱 I’m currently learning Web development, pygame, etc
 - 💞️ I’m looking to collaborate on some Game Jams
-- 📫 Reach me on Instagram https://www.instagram.com/kaladharan_lal/
+- 📫 Reach me on kaladharanlal@gmail.com
 
   Since my childhood, I have been fascinated by tech. ⚡️
   
