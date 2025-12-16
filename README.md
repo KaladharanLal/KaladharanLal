@@ -1,13 +1,43 @@
-- 👋 Hi, I’m @KaladharanLal
-- 👀 I’m interested in programming with Python, javascript/HTML/CSS
-- 🌱 I’m currently learning Web development, pygame, etc
-- 💞️ I’m looking to collaborate on some Game Jams
-- 📫 Reach me on kaladharanlal@gmail.com
+<h2 align="center">Hi 👋 I'm Kaladharan Lal</h2>
 
-  Since my childhood, I have been fascinated by tech. ⚡️
-  
-  During the Corona Lockdown, I was introduced to programming, and from then it became my only hobby. 👨‍💻<br>
-  Programming gave me the superpowers to create whatever I could imagine. 💭<br>
-  I am always curious about the possibilities, and always ready to try the unimaginable. 🎇<br>
+<p align="center">
+  ⚙️ Electronics & Embedded Systems <br>
+  🧠 Curious about how hardware meets software
+</p>
 
-  Here are some small projects that I developed during my free time.
+---
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+### ✦ Hardware
+▸ Arduino / ESP32   <br>
+▸ Sensors & Modules   <br>
+▸ Simulation & PCB Designing
+
+</td>
+<td width="33%" valign="top">
+
+### ✦ Projects
+▸ ASCII Cam <br>
+▸ Line Follower <br>
+▸ VR Solar System 
+
+</td>
+<td width="33%" valign="top">
+
+### ✦ Languages
+▸ Python <br>
+▸ HTML, CSS & JavaScript  <br>
+▸ C / C++  
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+📫 <b>Contact</b> → kaladharanlal10bcvv@gmail.com
+</p>
